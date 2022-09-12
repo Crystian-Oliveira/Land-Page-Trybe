@@ -1,0 +1,121 @@
+body {
+    background-color: #023031;
+    padding: 0;
+    margin: 0;
+}
+
+#logo-principal{
+ padding: 0 0 0 50px;
+ max-height: 45px;
+ max-width: 90px;
+}
+
+
+header{
+    
+    display: flex;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.optnav {
+    font-family: Epilogue,sans-serif;
+    position: relative;
+    left: 200px;
+    color: #FFF;
+    padding: 1rem 0.5rem;
+
+}
+
+.button-login{
+    background-color: transparent;
+    border: 2px solid #2fc18c;
+    padding: 8px 32px;
+    transition: all 0.5s;
+    border-radius: 5px;
+    color:#2fc18cFF;
+    font-weight: 400;
+    cursor: pointer;
+    font-weight: bolder;
+    
+}
+.button-login:hover{
+    background-color: #2fc18c;
+    border: 2px solid #2fc18c;
+    padding: 8px 32px;
+    border-radius: 5px;
+    color:#FFF;
+    font-weight: 400;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.button-conta{
+    background-color: #2fc18c;
+    padding: 10px 16px;
+    border-radius: 5px;
+    border: none;
+    color:#FFF;
+    font-weight: 400;
+    cursor: pointer;
+    
+    
+}
+
+nav li {
+    display: inline-block;
+    
+    
+    
+}
+
+.Hero-title{
+    font-size: 3rem;
+    font-family: Epilogue,sans-serif;
+    color: #fff;
+    
+   
+}
+
+.Hero-tec-green{
+    color: #2fc18c;
+}
+
+h2, h3{
+    color: #FFF;
+    display: inline;
+    
+}
+.text-hero{
+    padding: 60px 0 0 50px;
+    display: inline-block;
+    max-width: 50%;
+    vertical-align: top;
+}
+
+.main-img{
+    display: inline;
+    margin-top: 20px;
+    min-height: 200px;
+    min-width: 500px;
+}
+
+.sub-text-hero{
+    margin: 0 0 35px 50px;
+    max-width: 55%;
+    line-height: 1.5;
+    vertical-align: top;
+}
+
+.main button{
+    margin: 0 0 0 45px;
+    padding: 10px 30px;
+    font-size: 15px;
+    border-radius: 12px;
+    border:none;
+    color: #FFF;
+    background-color: #704488;
+    cursor: pointer;
+   
+}
+
