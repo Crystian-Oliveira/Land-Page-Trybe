@@ -118,6 +118,21 @@ h2, h3{
     color: #FFF;
     background-color: #704488;
     cursor: pointer;
+    
    
+}
+
+footer{
+	text-align: center;
+}
+
+.copyright{
+color:rgba(255, 255, 255, 0.795);
+font-size: 15px;
+margin: 20px 0 0;
+}
+
+footer a {
+    color: #498fff9c
 }
 
